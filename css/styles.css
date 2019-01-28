@@ -77,10 +77,13 @@ p {
   display: block;
   font-size: 3rem;
   font-weight: 100;
-  color: black;
+  color: black;;
 }
 .concept {
-  color: #000;
+  color:black;
+}
+.section-container p{
+color:white;
 }
 
 .btn-xl {
